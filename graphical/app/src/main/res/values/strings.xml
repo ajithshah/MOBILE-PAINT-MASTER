@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="Thickness_toast">"Adjust pen size"</string>
+</resources>
