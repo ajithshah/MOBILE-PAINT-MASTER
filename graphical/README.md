@@ -7,7 +7,7 @@
 - One Click Clean Button
 - Color pallet.
 
-For Feedback, email ajithshah37@mail.com
+For Feedback, email ajithshah37@gmail.com
 
   
 
